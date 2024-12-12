@@ -7,7 +7,7 @@ Proje, kullanıcı profil fotoğrafını, adını, unvanını ve sabitlenmiş de
 
 - **Profil Bilgileri**: Kullanıcı adı, profil resmi ve geliştirici unvanlarını içerir.
 - **Sabitlenmiş Depolar**: CSS ile tasarlanmış kartlar halinde sabitlenmiş projeleri gösterir.
-- **Basit ve Temiz Tasarım**: Kullanıcı dostu ve modern bir görünüm için temel SCSS kullanılmıştır.
+- **Basit ve Temiz Tasarım**: Modern bir görünüm için temel SCSS kullanılmıştır.
 
 # 🚀 Kullanılan Teknolojiler
 
